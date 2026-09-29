@@ -89,7 +89,7 @@ Hinata Bot V3 ships with a huge collection of free commands — and the list kee
 New to bots? No problem. Watch the step-by-step video tutorial to get Hinata Bot running on your mobile phone within minutes.
 
 <p align="center">
-  <a href="https://youtu.be/zJsemXLaRbY?si=f0PE6L4oCGzYBwPn" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/Watch%20Video%20Tutorial-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Tutorial">
   </a>
 </p>
@@ -125,7 +125,7 @@ Want to see more projects or hire the developer?
   </a>
 </p>
 
-Built with passion by **MahMUD** — a full-stack developer specializing in Facebook bots, Messenger automation, Node.js applications, and AI chatbot integrations.
+Built with passion by **Faraby** — a full-stack developer specializing in Facebook bots, Messenger automation, Node.js applications, and AI chatbot integrations.
 
 ---
 
@@ -134,25 +134,23 @@ Built with passion by **MahMUD** — a full-stack developer specializing in Face
 Found a bug? Need a custom feature or a private Messenger bot built for you? Reach out directly!
 
 <div align="left">
-  <a href="https://www.facebook.com/mahmudexe" target="_blank">
+  <a href="https://www.facebook.com/share/19XniXseyL/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
   </a>
-  <a href="https://wa.me/8801836298139?text=Hi%20MahMUD%2C%20I%20want%20to%20chat%20with%20you!" target="_blank">
+  <a href="https://wa.me/8801757547364⁠!" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
-  <a href="mailto:mahmudx007@gmail.com?subject=Hello%20MahMUD&body=Hi%20MahMUD!">
+  <a href="mailto:moynulislam8373@gmail.com?subject=Hello%20MahMUD&body=Hi%20MahMUD!">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://mahmud-aura.is-a.dev" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
   </a>
 </div>
 
 ### Scan to Connect
 
-| Facebook | Youtube | WhatsApp | Portfolio | Gmail |
-| :---: | :---: | :---: | :---: | :---: |
-| <a href="https://www.facebook.com/mahmudexe"><img src="https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-fb.svg" width="200"/></a><p><b><a href="https://www.facebook.com/mahmudexe">MahMUD</a></b></p> | <a href="https://www.youtube.com/@mahmud-aura"><img src="https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-ytb.svg" width="200"/></a><p><b><a href="https://www.youtube.com/@mahmud-aura">MahMUD</a></b></p> | <a href="https://wa.me/8801836298139"><img src="https://quickchart.io/qr?text=https%3A%2F%2Fwa.me%2F8801836298139&size=200&margin=1&dark=25D366&centerImageUrl=https%3A%2F%2Fimg.icons8.com%2Fcolor%2F100%2Fwhatsapp--v1.png&centerImageSizeRatio=0.28" width="200"/></a><p><b><a href="https://wa.me/8801836298139">MahMUD</a></b></p> | <a href="https://mahmud-aura.is-a.dev"><img src="https://quickchart.io/qr?text=https%3A%2F%2Fmahmud-aura.is-a.dev%2F&size=200&margin=1&dark=4285F4&centerImageUrl=https%3A%2F%2Fimg.icons8.com%2Fcolor%2F100%2Fchrome--v1.png&centerImageSizeRatio=0.28" width="200"/></a><p><b><a href="https://mahmud-aura.is-a.dev">MahMUD</a></b></p> | <a href="mailto:mahmudx007@gmail.com"><img src="https://quickchart.io/qr?text=mailto%3Amahmudx007%40gmail.com&size=200&margin=1&dark=D14836&centerImageUrl=https%3A%2F%2Fimg.icons8.com%2Fcolor%2F100%2Fgmail--v1.png&centerImageSizeRatio=0.28" width="200"/></a><p><b><a href="mailto:mahmudx007@gmail.com">MahMUD</a></b></p> |
+
 
 ---
 
